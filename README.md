@@ -81,7 +81,7 @@ streamlit run app.py
 and then open link 
 
 ## To Do
-1. Future Work has been listed in [limitations.txt](limitations.txt) file.
+1. Future Work has been listed in [limitation.txt](limitation.txt) file.
 
 
 
