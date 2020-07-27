@@ -31,11 +31,18 @@ start predicting using that trained yml file .
 ## Directory Tree 
 ```
 
-├── images
+├── Attendance.csv
 ├── README.md
 ├── activation.bat
-├── app.py
+├── dataset_maker.py
+├── face_dataset_trainer.py
+├── haarcascade_frontalface_default.xml
+├── limitation.txt
 ├── requirements.txt
+├── trainingData.yml
+├── webapp.py
+
+
 
 ```
 In above directory structure outputs folder is created only when images and videos is required by user. Facility for choosing this option is given at top of side-bar of application.
@@ -74,7 +81,7 @@ streamlit run app.py
 and then open link 
 
 ## To Do
-1. Also add an option of video  stream  to detect .
+1. Future Work has been listed in [limitations.txt](limitations.txt) file.
 
 
 
