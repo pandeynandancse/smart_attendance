@@ -1,0 +1,14 @@
+1 . collect data does not works with streamlit  number_input id. Use input via terminal instead
+
+
+
+2 . Train data from terminal does not work
+
+
+
+
+Becoz of above two collect and train both do with separate file.
+
+
+
+3. Id is limited so make it more flexible so that any number of user can be identified without modifying code.
